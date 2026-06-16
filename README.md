@@ -2,7 +2,6 @@
 
 **Course**: Fundamentals of Computer Science  
 **Author**: Simone Giovanni Matraxia
-**Date**: January 2023
 
 ## Overview
 This repository contains a C program developed as a university project for the "Fundamentals of Computer Science" course. It provides a terminal-based ecosystem to track, simulate, and manage the FIFA World Cup Qatar 2022 dataset.
@@ -27,5 +26,8 @@ The system extracts data from two straightforward text files (containing the dat
 2. Compile the source code using standard GCC:
    ```bash
    gcc main.c -o worldcup2022
+   ```
 3. Run the compiled executable:
-./worldcup2022
+   ```bash
+   ./worldcup2022
+   ```
