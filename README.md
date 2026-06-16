@@ -1,6 +1,3 @@
-# world-cup-2022-cli
-Terminal-based C app: statistics tracker for the FIFA World Cup 2022.
-=======
 # FIFA World Cup 2022 - Command Line Interface
 
 **Course**: Fundamentals of Computer Science  
