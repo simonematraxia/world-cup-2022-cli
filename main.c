@@ -148,9 +148,9 @@ int loginMenu() {
         switch(choice) {
         case 1:
                 printf("\nUsername: ");
-                scanf("%s", user);
+                scanf("%49s", user);
                 printf("Password: ");
-                scanf("%s", pass);
+                scanf("%24s", pass);
                 if(authenticateUser(head, user, pass) == 1) flag = 1;
                 else {
                     printf("\nIncorrect username and/or password.\n");
